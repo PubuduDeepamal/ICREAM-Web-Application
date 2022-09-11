@@ -109,7 +109,7 @@
                     <h4 class="font-weight-bold mb-3">About Us</h4>
                     <h5 class="text-muted mb-3">Our Delicious Story</h5>
                     <p>To satisfy the most lacking ICE CREAM experience in Kandy, selani, mihishani, Dineshi and Hansi came up with the ideal plan to open up iCREAM on October 6th 2022. Within a very short time, iCREAM became the best hangout spot in Kandy, fulfilling the much needed unique dining experience for everyone around.
-</p>
+            </p>
                     <a href="" class="btn btn-secondary mt-2">Learn More</a>
                 </div>
                 <div class="col-lg-4" style="min-height: 400px;">
