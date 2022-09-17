@@ -115,8 +115,7 @@
                     </a>
                 </div>
                 <div class="col-12">
-                    <p class="m-0">&copy; All Rights Reserved. Designed by <a href="#">Selani, Mihishani, Dineshi and Hansi</a></a>
-                    </p>
+                <p class="m-0">&copy; All Rights Reserved. Designed by <a href="admin.blade.php">Pubudu Deepamal</a></a>
                 </div>
             </div>
         </div>
