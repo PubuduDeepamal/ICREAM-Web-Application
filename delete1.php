@@ -2,7 +2,7 @@
         include("Connecting.php");
         error_reporting(0);
 
-       $name=$_GET['rn'];
+       $nic=$_GET['rn'];
 
        $query = "DELETE FROM corder WHERE nic = '$nic'";
        
